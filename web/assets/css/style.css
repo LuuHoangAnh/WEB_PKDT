@@ -1,0 +1,43 @@
+/* =========================COMMON======================== */
+.input_form {
+  display: inline-flex;
+  flex-direction: column;
+}
+
+/* =========================HEADER======================== */
+.header{
+  z-index: 1;
+  position: sticky;
+  top: -10px;
+}
+
+.mes-bottom a {
+  font-size: 50px;
+  color: #0082ff;
+  position: fixed;
+  bottom: 70px;
+  right: 20px;
+}
+
+.mes-bottom #backToTop {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  display: none;
+  background-color: #333;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  font-size: 16px;
+  ursor: pointer;
+  border-radius: 5px;
+}
+
+/* =========================HOME======================== */
+
+
+/* =========================LOGIN======================== */
+
+/* =========================REGISTER======================== */
+
+/* =========================FOOTER======================== */
